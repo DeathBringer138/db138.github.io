@@ -1,7 +1,16 @@
 .box1 {
-    background-color:antiquewhite;
+    background-color:bisque;
     border:2px solid black;
-    height:100%;
-    width:100%;
-    margin:2%
+    height:95%;
+    width:95%;
+    padding:2%
+}
+
+.deftext {
+    font-size:0.65em;
+    font-family: Wittgenstein, Arial, Helvetica, sans-serif;
+}
+
+.removelinkdecor {
+    text-decoration: none;
 }
