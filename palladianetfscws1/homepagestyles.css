@@ -6,6 +6,14 @@ h1 {
     font-family:Chakra Petch, Verdana, Tahoma, sans-serif;
 }
 
+h2 {
+    font-family:Chakra Petch, Verdana, Tahoma, sans-serif;
+}
+
+p {
+    font-family:Chakra Petch, Verdana, Tahoma, sans-serif;
+}
+
 button {
     font-family:Chakra Petch, Verdana, Tahoma, sans-serif;
 }
@@ -25,3 +33,36 @@ button {
     background-color: rgb(230, 230, 230);
     border:2px solid #99ff99;
 }
+
+.navbox2 {
+    height: 3%;
+    width: 100%;
+    background-color: rgb(230, 230, 230);
+    border:2px solid #99ff99;
+}
+
+.infobox {
+    height: fit-content;
+    padding:1%;
+    width: 71%;
+    background-color: rgb(230, 230, 230);
+    border:2px solid #99ff99;
+}
+
+aside {
+    background-color:rgb(230, 230, 230);
+    font-family:Chakra Petch;
+    width:25%;
+    height:50%;
+    float:right;
+    border:2px solid #99ff99;
+    margin: 0px;
+    padding: 0px 4px 0px 4px;
+}
+
+table, td, th {font-family:Chakra Petch;border:2px solid black}
+th {padding-left:5px;background-color:lightgreen;text-align:left}
+td {padding-left:5px;text-align:left}
+tr:nth-child(odd) {background-color: #ddeedd}
+tr:nth-child(even) {background-color: #eeffee}
+tr:hover {background-color: #ccddcc}
