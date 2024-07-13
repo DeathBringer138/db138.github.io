@@ -8,9 +8,25 @@
 
 .deftext {
     font-size:0.65em;
-    font-family: Wittgenstein, Arial, Helvetica, sans-serif;
+    font-family: "Wittgenstein", Arial, Helvetica, sans-serif;
 }
 
 .removelinkdecor {
     text-decoration: none;
+}
+
+a:link {
+    color:greenyellow
+}
+
+a:visited {
+    color:green
+}
+
+a:hover {
+    color:yellow
+}
+
+a:active {
+    color:gold
 }
