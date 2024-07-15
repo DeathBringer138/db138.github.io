@@ -71,4 +71,8 @@ tr:hover {background-color: #ccddcc}
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
+}
+
+.ratingrank {
+    text-decoration: underline;
+}
